@@ -1,2 +1,1 @@
-# activategames
-A fun interactive games
+# Memory-Game using HTML, CSS & JavaScript
